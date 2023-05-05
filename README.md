@@ -1,4 +1,8 @@
-# Laravel 9 & React js - Ecommerce application
+# Laravel 9 - Ecommerce application penjualan laptop
+#1.Adi Frans Situmeang - 2055201113
+#2.Rio wahyu al yahya - 2055201111
+#3.Radhivan Ikhramullah - 2057201033
+#4.Yudha Saputra - 2057201048
 
 ## Screenshots
 

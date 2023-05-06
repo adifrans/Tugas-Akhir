@@ -3,10 +3,16 @@
 #2.Rio wahyu al yahya - 2055201111
 #3.Radhivan Ikhramullah - 2057201033
 #4.Yudha Saputra - 2057201048
+#5.Ibrohim Arraf Andri putera 2057201044
 
 ######################
 Link hosting: https://techno-shop12.000webhostapp.com/
 ######################
+
+###########
+link demo in youtube by:kelompok4
+https://youtu.be/pYlw9p6c2yo
+#######
 
 ## Screenshots
 

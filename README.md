@@ -14,9 +14,13 @@ link demo in youtube by:kelompok4
 https://youtu.be/pYlw9p6c2yo
 #######
 
-## Screenshots
+## PREVIEW
 
 ![preview img](/preview.png)
+
+## ERD
+
+![preview img](/ERD.png)
 
 ## Run Locally
 

@@ -16,7 +16,7 @@ https://youtu.be/pYlw9p6c2yo
 
 ## Screenshots
 
-![preview img](/Preview.png)
+![preview img](/preview.png)
 
 ## Run Locally
 
